@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7192" started-at="2018-02-12T20:35:35Z" finished-at="2018-02-12T20:35:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7192" started-at="2018-02-12T20:35:35Z" finished-at="2018-02-12T20:35:43Z">
+      <class name="testcases.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:testcases.AppiumTest@64616ca2]" name="IOSApps" duration-ms="0" started-at="2018-02-12T20:35:43Z" finished-at="2018-02-12T20:35:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAPAndroid()[pri:0, instance:testcases.AppiumTest@64616ca2]" name="NativeAPAndroid" duration-ms="0" started-at="2018-02-12T20:35:43Z" finished-at="2018-02-12T20:35:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAPAndroid -->
+      </class> <!-- testcases.AppiumTest -->
+      <class name="testcases.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:testcases.RESTAPITest@dfd3711]" name="deleteTwitter" duration-ms="4" started-at="2018-02-12T20:35:35Z" finished-at="2018-02-12T20:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:testcases.RESTAPITest@dfd3711]" name="postJira" duration-ms="0" started-at="2018-02-12T20:35:35Z" finished-at="2018-02-12T20:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- testcases.RESTAPITest -->
+      <class name="testcases.MojaKlasaTest">
+        <test-method status="PASS" signature="MojaKlasa()[pri:0, instance:testcases.MojaKlasaTest@3b81a1bc]" name="MojaKlasa" duration-ms="7161" started-at="2018-02-12T20:35:35Z" finished-at="2018-02-12T20:35:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MojaKlasa -->
+      </class> <!-- testcases.MojaKlasaTest -->
+      <class name="testcases.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutamation()[pri:0, instance:testcases.SeleniumTest@5f2050f6]" name="BrowserAutamation" duration-ms="0" started-at="2018-02-12T20:35:35Z" finished-at="2018-02-12T20:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutamation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:testcases.SeleniumTest@5f2050f6]" name="elementsUI" duration-ms="0" started-at="2018-02-12T20:35:35Z" finished-at="2018-02-12T20:35:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- testcases.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
